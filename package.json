@@ -1,6 +1,6 @@
 {
     "name": "Areweinthematrix",
-    "version": "0.0.0.1 Prealpha",
+    "version": "0.0.1",
     "description": "are we ?",
     "dependencies": {
         "colyseus.js": "^0.14.5",
