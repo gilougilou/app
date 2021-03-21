@@ -1,0 +1,10 @@
+{
+    "name": "Areweinthematrix",
+    "version": "0.0.0.1 Prealpha",
+    "description": "are we ?",
+    "dependencies": {
+        "colyseus.js": "^0.14.5",
+        "express": "^4.17.1",
+        "socket.io": "^4.0.0"
+    }
+}
