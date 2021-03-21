@@ -154,4 +154,12 @@ io.on('connection', function (socket) {
         // current socket left, add the other one to the queue
         findPeerForLoneSocket(allUsers[peerID]);
     }); */
+
+    socket.on('chatmessage' , msg => {
+        console.log(msg);
+        });
+
 });
+
+
+    
